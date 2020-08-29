@@ -10,7 +10,7 @@ hi
 - many commit 2020
 - this is all
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zeemahh&count_private=true&count_private=true&theme=gruvbox)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zeemahh&count_private=true&count_private=true&show_icons=true&theme=gruvbox)
 
 ### idk, some discord bot
 
