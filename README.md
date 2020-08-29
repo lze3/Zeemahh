@@ -5,7 +5,7 @@ hi
 - typeskropt best lang
 - typeskropt #1
 
-ded [refresh]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zeemahh&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
 ### much stats
 - many commit 2020
