@@ -1,16 +1,16 @@
-### Hi there 👋
+hi
 
-<!--
-**Zeemahh/Zeemahh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### here are top langs, much cool.
+- typeskropt should be top :(
+- typeskropt best lang
+- typeskropt #1
 
-Here are some ideas to get you started:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### much stats
+- many commit 2020
+- this is all
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zeemahh&count_private=true)
+
+<i>thank for read</i>
