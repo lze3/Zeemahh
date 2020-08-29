@@ -1,7 +1,6 @@
 hi
 
 ### here are top langs, much cool.
-- typeskropt should be top :(
 - typeskropt best lang
 - typeskropt #1
 
