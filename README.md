@@ -5,12 +5,16 @@ hi
 - typeskropt best lang
 - typeskropt #1
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zeemahh&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zeemahh&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
 ### much stats
 - many commit 2020
 - this is all
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zeemahh&count_private=true&include_all_commits=true&count_private=true&theme=gruvbox)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zeemahh&count_private=true&count_private=true&theme=gruvbox)
+
+### idk, some discord bot
+
+
 
 <i>thank for read</i>
