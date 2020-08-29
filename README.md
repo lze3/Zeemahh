@@ -14,7 +14,7 @@ hi
 
 ### idk, some discord bot
 
-[![Upsilon](https://github-readme-stats.vercel.app/api/pin/?username=Zeemahh&repo=Upsilon)](https://github.com/anuraghazra/github-readme-stats)
+[![Upsilon](https://github-readme-stats.vercel.app/api/pin/?username=Zeemahh&repo=Upsilon&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <i>thank for read</i>
