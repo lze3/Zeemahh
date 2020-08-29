@@ -5,7 +5,7 @@ hi
 - typeskropt best lang
 - typeskropt #1
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zeemahh)](https://github.com/anuraghazra/github-readme-stats)
 
 ### much stats
 - many commit 2020
