@@ -4,17 +4,17 @@ hi
 - typeskropt best lang
 - typeskropt #1
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zeemahh&layout=compact&theme=gruvbox&false)](https://github.com/zeemahh)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lze3&layout=compact&theme=gruvbox&false)](https://github.com/zeemahh)
 
 ### much stats
 - many commit 2020
 - this is all
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zeemahh&count_private=true&count_private=true&show_icons=true&theme=gruvbox)](https://github.com/zeemahh)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lze3&count_private=true&count_private=true&show_icons=true&theme=gruvbox)](https://github.com/zeemahh)
 
 ### idk, some discord bot
 
-[![Upsilon](https://github-readme-stats.vercel.app/api/pin/?username=Zeemahh&repo=Omicron&theme=gruvbox)](https://github.com/zeemahh)
+[![Upsilon](https://github-readme-stats.vercel.app/api/pin/?username=lze3&repo=Omicron&theme=gruvbox)](https://github.com/zeemahh)
 
 
 <i>thank for read</i>
